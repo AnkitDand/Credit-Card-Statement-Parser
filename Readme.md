@@ -137,16 +137,16 @@ npm start
 ## **Screenshots**
 
 **Dashboard Overview**
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](screenshots/header.png)
 
 **Charts Section**
-![Screenshot 2](path/to/screenshot2.png)
-
-**Statement Cards**
-![Screenshot 3](path/to/screenshot3.png)
+![Screenshot 2](screenshots/analytics.png)
 
 **Upcoming Payments & Modal View**
-![Screenshot 4](path/to/screenshot4.png)
+![Screenshot 4](screenshots/upcoming.png)
+
+**Statement Cards**
+![Screenshot 3](screenshots/statements.png)
 
 ---
 
